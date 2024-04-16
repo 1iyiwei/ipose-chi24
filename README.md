@@ -1,1 +1,1 @@
-# [Ciallo: The next-generation vector paint program](https://1iyiwei.github.io/ciao-sig23/) #
+# [iPose: Interactive Human Pose Reconstruction from Video](https://1iyiwei.github.io/ipose-chi24/) #
